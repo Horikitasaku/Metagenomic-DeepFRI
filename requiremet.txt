@@ -1,0 +1,11 @@
+click
+numpy>=1.19
+biotite
+mmseqs2==15.6f452
+libdeflate
+pysam==0.21.0
+pyopal>=0.5
+foldcomp
+tqdm
+onnxruntime-gpu
+mdeepfri
